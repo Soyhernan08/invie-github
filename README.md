@@ -1,2 +1,2 @@
 # invie-github
-tus mejores gitarras invie-sibles
+tus mejores gitarras invie-sibles by @platzi
